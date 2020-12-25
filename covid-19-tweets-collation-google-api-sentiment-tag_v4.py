@@ -6,7 +6,7 @@ Created on Fri May  1 17:21:21 2020
 """
 
 import pandas as pd
-import google_sentiment_example
+import google_sentiment_example ## download this file from Github same directory and add it to the folder where this file is placed
 import math
 
 
